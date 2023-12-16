@@ -20,9 +20,7 @@ I specialize in coding primarily in Python and am constantly exploring new techn
 
 Here are a few highlights of my work:
 
-1. **Project 1:** [Project Name](link_to_project_1) - Brief description of the project.
-
-2. **Project 2:** [Project Name](link_to_project_2) - Brief description of the project.
+1. **Project 1:** [ChessChums](https://github.com/Miazhi24/ChessChums) - A 2 player chess game programed without an engine in order to demonstrate the capabilies of Python.
 
 Feel free to explore my repositories to discover more about my coding journey and the projects I've been working on!
 
