@@ -1,6 +1,6 @@
 # Taha's Developer Portfolio
 
-![Profile Image](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyxm8upfcgs5a1.jpg%3Fwidth%3D726%26format%3Dpjpg%26auto%3Dwebp%26s%3D32ceadb1672ece24d6a8f8b25d7b3c95816c84bc)
+![Profile Image](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyxm8upfcgs5a1.jpg)
 
 Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer with a keen interest in game development. My philosophy revolves around continuous improvement and striving to be the best I can possibly be.
 
