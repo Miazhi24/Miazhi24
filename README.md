@@ -1,4 +1,4 @@
-#It's dangerous to go alone! Take this.!
+# It's dangerous to go alone! Take this.!
 
 <div align="center">
   <img src="https://github.com/Miazhi24/Miazhi24/blob/main/Githhub.png?raw=true" width="800" alt="Botir Khaltaev Image">
