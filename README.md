@@ -16,7 +16,7 @@ Greetings! I'm Taha, an aspiring software developer with a passion for crafting 
 
 My journey in the tech realm is fueled by a deep fascination for game development. I find joy in participating in game jams, always eager to collaborate and explore innovative ideas.
 
-Beyond lines of code, I delve into the world of 3D animation and sculpting, adding an artistic flair to my technical endeavors. From a young age, my dream has been to create something that brings enjoyment to others. I believe in the profound wisdom captured by Vegeta's words:
+Beyond lines of code, I delve into the world of 3D animation and sculpting, adding an artistic flair to my technical endeavors. From a young age, my dream has been to create something that brings enjoyment to others. I find profound wisdom captured in these's words:
 
 > "I do not fear this new challenge, rather like a true warrior, I will rise to meet it." - Vegeta
 
