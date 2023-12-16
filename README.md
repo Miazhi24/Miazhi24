@@ -1,6 +1,8 @@
 # Taha's Developer Portfolio
 
-![Profile Image](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyxm8upfcgs5a1.jpg)
+<div align="center">
+  <img src="https://i.redd.it/6kmghsev58j71.jpg" width="800" alt="Botir Khaltaev Image">
+</div>
 
 Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer with a keen interest in game development. My philosophy revolves around continuous improvement and striving to be the best I can possibly be.
 
