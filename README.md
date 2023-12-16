@@ -44,4 +44,4 @@ Feel free to explore my repositories to discover more about my coding journey an
 Connect with me on social media or drop me an email if you'd like to discuss collaborations, projects, or just have a chat:
 
 - 📧 Email: f.tahaabdullah2004@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/fatih-abdullah-taha-3464221a5/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fatih-abdullah-taha-3464221a5/)
