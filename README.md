@@ -25,7 +25,7 @@ Here are a few highlights of my work:
 Feel free to explore my repositories to discover more about my coding journey and the projects I've been working on!
 
 <div align="center">
-  <img src="https://github.com/Miazhi24/Miazhi24/blob/main/banner.png?raw=true" width="800" alt="Toha2 Image">
+  <img src="https://github.com/Miazhi24/Miazhi24/blob/main/banner.png?raw=true" width="1000" alt="Toha2 Image">
 </div>
 
 
