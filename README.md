@@ -1,4 +1,4 @@
-# It's dangerous to go alone! Take this.!
+![image](https://github.com/Miazhi24/Miazhi24/assets/123932308/412624d9-539f-4ca0-9d2e-ded77b994e15)# It's dangerous to go alone! Take this.!
 
 <div align="center">
   <img src="https://github.com/Miazhi24/Miazhi24/blob/main/Githhub.png?raw=true" width="800" alt="Toha Image">
@@ -21,7 +21,7 @@ Beyond lines of code, I delve into the world of 3D animation and sculpting, addi
 > "I do not fear this new challenge, rather like a true warrior, I will rise to meet it." - Vegeta
 
 <div align="center">
-  <img src="https://github.com/Miazhi24/Miazhi24/blob/main/Githhub.png?raw=true" width="800" alt="Toha3 Image">
+  <img src="https://github.com/Miazhi24/Miazhi24/blob/main/vegeta.png?raw=true" width="800" alt="Toha3 Image">
 </div>
 
 Join me on this exciting quest as I code, design, and sculpt my way toward creating captivating experiences for all to enjoy! 🚀🎮✨
