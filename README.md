@@ -30,7 +30,7 @@ I specialize in coding with expertise in Python, C#, and Java, continually explo
 
 Here are a few highlights of my work:
 
-1. **Project 1:** [ChessChums](https://github.com/Miazhi24/ChessChums) - A 2 player chess game programed without an engine in order to demonstrate the capabilies of Python.
+1. **Project 1:** [ChessChums](https://github.com/ees4ykg) - A 2 player chess game programed without an engine in order to demonstrate the capabilies of Python. a collaborative project with my friend [Eesa]()
 
 Feel free to explore my repositories to discover more about my coding journey and the projects I've been working on!
 
