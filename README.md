@@ -8,9 +8,19 @@ Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer s
 
 ## About Me
 
-- 😊 Name: Taha
-- 🚀 Aspiring Software Developer
-- 🎮 Passionate about Game Development
+😊 Name: Taha
+
+🚀 Aspiring Software Developer | 🎮 Game Development Enthusiast | 📚 Student at Royal Holloway
+
+Greetings! I'm Taha, an aspiring software developer with a passion for crafting immersive digital experiences. Currently, I'm a student at Royal Holloway, where I'm delving into the world of technology and honing my skills.
+
+My journey in the tech realm is fueled by a deep fascination for game development. I find joy in participating in game jams, always eager to collaborate and explore innovative ideas.
+
+Beyond lines of code, I delve into the world of 3D animation and sculpting, adding an artistic flair to my technical endeavors. From a young age, my dream has been to create something that brings enjoyment to others. I believe in the profound wisdom captured by Vegeta's words:
+
+> "I do not fear this new challenge, rather like a true warrior, I will rise to meet it." - Vegeta
+
+Join me on this exciting quest as I code, design, and sculpt my way toward creating captivating experiences for all to enjoy! 🚀🎮✨
 
 ## Skills
 
