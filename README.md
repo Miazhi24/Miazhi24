@@ -4,7 +4,7 @@
   <img src="https://github.com/Miazhi24/Miazhi24/blob/main/Githhub.png?raw=true" width="800" alt="Toha Image">
 </div>
 
-Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer with a keen interest in game development. My philosophy revolves around continuous improvement and striving to be the best I can possibly be.
+Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer studying at Royal Holloway University with a keen interest in game development. My philosophy revolves around continuous improvement and striving to be the best I can possibly be.
 
 ## About Me
 
@@ -14,7 +14,7 @@ Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer w
 
 ## Skills
 
-I specialize in coding primarily in Python and am constantly exploring new technologies and methodologies to enhance my skills.
+I specialize in coding with expertise in Python, C#, and Java, continually exploring emerging technologies and methodologies to elevate my skills. Beyond coding, my passion extends to 3D art, where I express my creativity using Blender as my software of choice. This combination of technical proficiency and artistic flair allows me to bring a unique perspective to projects and fuels my enthusiasm for innovation
 
 ## Projects
 
@@ -33,5 +33,5 @@ Feel free to explore my repositories to discover more about my coding journey an
 
 Connect with me on social media or drop me an email if you'd like to discuss collaborations, projects, or just have a chat:
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- 📧 Email: f.tahaabdullah2004@gmail.com
+- 🔗 LinkedIn: (https://www.linkedin.com/in/fatih-abdullah-taha-3464221a5/)
