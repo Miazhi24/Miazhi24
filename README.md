@@ -1,7 +1,7 @@
 # Taha's Developer Portfolio
 
 <div align="center">
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyxm8upfcgs5a1.jpg" width="800" alt="Botir Khaltaev Image">
+  <img src="https://github.com/Miazhi24/Miazhi24/blob/main/Githhub.png?raw=true" width="800" alt="Botir Khaltaev Image">
 </div>
 
 Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer with a keen interest in game development. My philosophy revolves around continuous improvement and striving to be the best I can possibly be.
