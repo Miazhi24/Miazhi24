@@ -8,7 +8,7 @@ Assalamualaikum! 👋 My name is Taha, and I am an aspiring software developer s
 
 ## About Me
 
-😊 Name: Taha
+😎 Name: Taha
 
 🚀 Aspiring Software Developer | 🎮 Game Development Enthusiast | 📚 Student at Royal Holloway
 
